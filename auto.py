@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Define the directory to organize
-source_directory = '/Users/APPLE/Desktop/Ak'  # Change this to your directory
+source_directory = '/Users/APPLE/Desktop/Ak'  # Change this according to your directory
 organized_directory = os.path.join(source_directory, 'Organized')
 
 # Create folders for organizing files
